@@ -1,7 +1,7 @@
 beautifulsoup4==4.11.1
 certifi==2023.7.22
 cffi==1.14.1
-idna==2.10
+idna==3.7
 linkpreview==0.1.11
 lxml==4.5.2
 numpy==1.19.1
